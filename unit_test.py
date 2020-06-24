@@ -2,4 +2,4 @@ def testfunc():
 	return 100
 
 def test():
-	assert testfunc()==100
+	assert testfunc()==10
